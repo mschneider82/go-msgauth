@@ -1,4 +1,4 @@
-module github.com/emersion/go-msgauth
+module github.com/mschneider82/go-msgauth
 
 go 1.12
 
